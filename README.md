@@ -21,11 +21,10 @@ I created a decoy application Dionaea for hackers to try to exploit my Honeypot.
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
-
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
-
+The RDBMS collects the data using SQL for querying and maintaining the database in MHN-Admin. 
+The exported JSON file recored the Date, Sensor, Country, Src IP, Dst port, Protocol, and Honeypot name. 
 
 
 ## Notes
+Some challenges I faced was getting the correct permissions for my API. Once I checked my settings and configurations, I was able to complete the assignment.
 
-Describe any challenges encountered while doing the assignment.
