@@ -1,6 +1,6 @@
 # Honeypot Assignment
 
-**Time spent:** **10 hours spent in total
+**Time spent:** **10 hours spent in total 
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
@@ -8,13 +8,13 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-<img src="mhn-admin.gif">
+<img src="deployment.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
-<img src="dionaea-honeypot.gif">
+<img src="dionaea.gif">
 
 ### Database Backup (Required) 
 
